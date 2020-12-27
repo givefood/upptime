@@ -6,10 +6,12 @@ repo: upptime # Your Github repository name
 sites:
   - name: Give Food Homepage
     url: https://www.givefood.org.uk/
-  - name: Give Food API 1
+  - name: Give Food API 1 food banks dump
     url: https://www.givefood.org.uk/api/1/foodbanks/
-  - name: Give Food API 2
+  - name: Give Food API 2 food banks dump
     url: https://www.givefood.org.uk/api/2/foodbanks/
+  - name: Give Food API 2 individual food bank
+    url: https://www.givefood.org.uk/api/2/foodbank/sid-valley/
   - name: Give Food API 2 Needs
     url: https://www.givefood.org.uk/api/2/needs/
 
