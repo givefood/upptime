@@ -4,8 +4,6 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Give Food Homepage
     url: https://www.givefood.org.uk/
   - name: Give Food API 1
