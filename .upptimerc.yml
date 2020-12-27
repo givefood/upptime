@@ -1,23 +1,23 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: givefood # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Give Food Homepage
+    url: https://www.givefood.org.uk/
+  - name: Give Food API 1
+    url: https://www.givefood.org.uk/api/1/foodbanks/
+  - name: Give Food API 2
+    url: https://www.givefood.org.uk/api/2/foodbanks/
+  - name: Give Food API 2 Needs
+    url: https://www.givefood.org.uk/api/2/needs/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.givefood.org.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
