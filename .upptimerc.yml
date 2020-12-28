@@ -14,6 +14,8 @@ sites:
     url: https://www.givefood.org.uk/api/2/foodbank/sid-valley/
   - name: Give Food API 2 Needs
     url: https://www.givefood.org.uk/api/2/needs/
+  - name: Datasette
+    url: https://datasette.givefood.org.uk/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
