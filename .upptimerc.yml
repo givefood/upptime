@@ -12,6 +12,10 @@ sites:
     url: https://www.givefood.org.uk/api/2/foodbanks/
   - name: Give Food API 2 individual food bank
     url: https://www.givefood.org.uk/api/2/foodbank/sid-valley/
+  - name: Give Food API 2 locations dump
+    url: https://www.givefood.org.uk/api/2/locations/
+  - name: Give Food API 2 location search
+    url: https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111
   - name: Give Food API 2 Needs
     url: https://www.givefood.org.uk/api/2/needs/
   - name: Datasette
