@@ -130,19 +130,19 @@
     "url": "https://datasette.givefood.org.uk/",
     "icon": "https://favicons.githubusercontent.com/datasette.givefood.org.uk",
     "slug": "datasette",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 242,
-    "timeWeek": 689,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "status": "up",
+    "uptime": "98.28%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.28%",
+    "time": 652,
+    "timeDay": 281,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2021-01-03": 0
+      "2021-01-03": 132
     }
   }
 ]
