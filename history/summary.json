@@ -13,8 +13,8 @@
     "time": 859,
     "timeDay": 93,
     "timeWeek": 269,
-    "timeMonth": 1110,
-    "timeYear": 910,
+    "timeMonth": 1134,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2021-10-18": 17
     }
@@ -33,7 +33,7 @@
     "time": 883,
     "timeDay": 16,
     "timeWeek": 1389,
-    "timeMonth": 938,
+    "timeMonth": 944,
     "timeYear": 885,
     "dailyMinutesDown": {}
   },
@@ -69,8 +69,8 @@
     "time": 290,
     "timeDay": 29,
     "timeWeek": 954,
-    "timeMonth": 365,
-    "timeYear": 296,
+    "timeMonth": 358,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
@@ -87,8 +87,8 @@
     "time": 1449,
     "timeDay": 19,
     "timeWeek": 903,
-    "timeMonth": 1368,
-    "timeYear": 1412,
+    "timeMonth": 1352,
+    "timeYear": 1413,
     "dailyMinutesDown": {}
   },
   {
@@ -105,8 +105,8 @@
     "time": 355,
     "timeDay": 11,
     "timeWeek": 203,
-    "timeMonth": 355,
-    "timeYear": 361,
+    "timeMonth": 347,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -123,8 +123,8 @@
     "time": 482,
     "timeDay": 265,
     "timeWeek": 284,
-    "timeMonth": 339,
-    "timeYear": 481,
+    "timeMonth": 326,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -134,17 +134,16 @@
     "slug": "datasette",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.78%",
     "time": 509,
     "timeDay": 215,
     "timeWeek": 323,
-    "timeMonth": 535,
+    "timeMonth": 538,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2022-01-27": 6,
       "2022-01-21": 20,
       "2022-01-20": 171,
       "2022-01-08": 25,
