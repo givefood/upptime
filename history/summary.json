@@ -60,36 +60,40 @@
     "url": "https://www.givefood.org.uk/api/2/foodbank/sid-valley/",
     "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
     "slug": "give-food-api-2-individual-food-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 14,
-    "timeWeek": 891,
-    "timeMonth": 372,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 312,
+    "timeDay": 5045,
+    "timeWeek": 2039,
+    "timeMonth": 666,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2022-02-02": 1
+    }
   },
   {
     "name": "Give Food API 2 locations dump",
     "url": "https://www.givefood.org.uk/api/2/locations/",
     "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
     "slug": "give-food-api-2-locations-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1446,
-    "timeDay": 1896,
-    "timeWeek": 1078,
-    "timeMonth": 1346,
-    "timeYear": 1409,
-    "dailyMinutesDown": {}
+    "time": 1467,
+    "timeDay": 5984,
+    "timeWeek": 2202,
+    "timeMonth": 1610,
+    "timeYear": 1433,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Give Food API 2 location search",
