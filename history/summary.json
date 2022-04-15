@@ -60,10 +60,10 @@
     "url": "https://www.givefood.org.uk/api/2/foodbank/sid-valley/",
     "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
     "slug": "give-food-api-2-individual-food-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 290,
@@ -72,6 +72,7 @@
     "timeMonth": 201,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2022-04-15": 1,
       "2022-02-02": 35
     }
   },
