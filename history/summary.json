@@ -2,7 +2,7 @@
   {
     "name": "Give Food Homepage",
     "url": "https://www.givefood.org.uk/",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-homepage",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 822,
-    "timeDay": 3152,
-    "timeWeek": 2758,
-    "timeMonth": 710,
+    "timeDay": 151,
+    "timeWeek": 2771,
+    "timeMonth": 712,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2022-06-30": 52,
@@ -23,7 +23,7 @@
   {
     "name": "Give Food API 1 food banks dump",
     "url": "https://www.givefood.org.uk/api/1/foodbanks/",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-1-food-banks-dump",
     "status": "up",
     "uptime": "99.99%",
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 621,
-    "timeDay": 628,
-    "timeWeek": 129,
-    "timeMonth": 120,
-    "timeYear": 520,
+    "time": 619,
+    "timeDay": 53,
+    "timeWeek": 131,
+    "timeMonth": 121,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -43,7 +43,7 @@
   {
     "name": "Give Food API 2 food banks dump",
     "url": "https://www.givefood.org.uk/api/2/foodbanks/",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-2-food-banks-dump",
     "status": "up",
     "uptime": "99.99%",
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 735,
-    "timeDay": 22,
-    "timeWeek": 26,
-    "timeMonth": 101,
-    "timeYear": 528,
+    "time": 732,
+    "timeDay": 38,
+    "timeWeek": 28,
+    "timeMonth": 102,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -63,7 +63,7 @@
   {
     "name": "Give Food API 2 individual food bank",
     "url": "https://www.givefood.org.uk/api/2/foodbank/sid-valley/",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-2-individual-food-bank",
     "status": "up",
     "uptime": "99.99%",
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 290,
-    "timeDay": 1423,
+    "time": 289,
+    "timeDay": 19,
     "timeWeek": 278,
     "timeMonth": 128,
-    "timeYear": 264,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2022-06-30": 52,
       "2022-04-15": 19,
@@ -85,7 +85,7 @@
   {
     "name": "Give Food API 2 locations dump",
     "url": "https://www.givefood.org.uk/api/2/locations/",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-2-locations-dump",
     "status": "up",
     "uptime": "99.99%",
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 928,
-    "timeDay": 17,
-    "timeWeek": 33,
+    "time": 924,
+    "timeDay": 31,
+    "timeWeek": 34,
     "timeMonth": 98,
-    "timeYear": 742,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2022-06-30": 52,
       "2022-02-02": 35
@@ -106,7 +106,7 @@
   {
     "name": "Give Food API 2 location search",
     "url": "https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-2-location-search",
     "status": "up",
     "uptime": "99.99%",
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 277,
-    "timeDay": 622,
-    "timeWeek": 103,
-    "timeMonth": 42,
+    "timeDay": 28,
+    "timeWeek": 105,
+    "timeMonth": 43,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-06-30": 52
@@ -126,7 +126,7 @@
   {
     "name": "Give Food API 2 Needs",
     "url": "https://www.givefood.org.uk/api/2/needs/",
-    "icon": "https://favicons.githubusercontent.com/www.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-2-needs",
     "status": "up",
     "uptime": "99.99%",
@@ -135,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 479,
-    "timeDay": 10,
-    "timeWeek": 118,
-    "timeMonth": 604,
+    "timeDay": 293,
+    "timeWeek": 157,
+    "timeMonth": 596,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2022-06-30": 52
@@ -146,7 +146,7 @@
   {
     "name": "Datasette",
     "url": "https://datasette.givefood.org.uk/",
-    "icon": "https://favicons.githubusercontent.com/datasette.givefood.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/datasette.givefood.org.uk.ico",
     "slug": "datasette",
     "status": "up",
     "uptime": "99.84%",
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 558,
-    "timeDay": 696,
-    "timeWeek": 1043,
-    "timeMonth": 1284,
-    "timeYear": 543,
+    "time": 562,
+    "timeDay": 2024,
+    "timeWeek": 1208,
+    "timeMonth": 1322,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2022-08-13": 68,
       "2022-08-12": 49,
