@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 616,
-    "timeDay": 147,
-    "timeWeek": 138,
-    "timeMonth": 401,
-    "timeYear": 500,
+    "time": 605,
+    "timeDay": 130,
+    "timeWeek": 152,
+    "timeMonth": 400,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 448,
-    "timeDay": 122,
-    "timeWeek": 252,
+    "timeDay": 45,
+    "timeWeek": 255,
     "timeMonth": 215,
-    "timeYear": 302,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 437,
-    "timeDay": 138,
-    "timeWeek": 60,
+    "time": 432,
+    "timeDay": 23,
+    "timeWeek": 59,
     "timeMonth": 103,
-    "timeYear": 212,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 245,
-    "timeDay": 67,
-    "timeWeek": 492,
+    "timeDay": 18,
+    "timeWeek": 494,
     "timeMonth": 198,
-    "timeYear": 224,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2022-06-30": 52,
       "2022-04-15": 19
@@ -91,9 +91,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 600,
-    "timeDay": 233,
-    "timeWeek": 111,
+    "time": 597,
+    "timeDay": 29,
+    "timeWeek": 112,
     "timeMonth": 179,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 63,
-    "timeWeek": 204,
-    "timeMonth": 96,
-    "timeYear": 163,
+    "time": 203,
+    "timeDay": 24,
+    "timeWeek": 206,
+    "timeMonth": 97,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -131,10 +131,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 423,
-    "timeDay": 78,
+    "time": 422,
+    "timeDay": 15,
     "timeWeek": 117,
-    "timeMonth": 187,
+    "timeMonth": 179,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2022-06-30": 52
@@ -146,18 +146,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datasette.givefood.org.uk.ico",
     "slug": "datasette",
     "status": "down",
-    "uptime": "87.90%",
+    "uptime": "87.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.78%",
+    "uptimeYear": "74.51%",
     "time": 587,
-    "timeDay": 227,
-    "timeWeek": 256,
-    "timeMonth": 370,
+    "timeDay": 240,
+    "timeWeek": 260,
+    "timeMonth": 372,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2023-02-05": 108,
+      "2023-02-06": 99,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
