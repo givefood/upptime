@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 532,
-    "timeDay": 114,
-    "timeWeek": 146,
+    "time": 523,
+    "timeDay": 51,
+    "timeWeek": 140,
     "timeMonth": 199,
-    "timeYear": 475,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 404,
-    "timeDay": 18,
-    "timeWeek": 140,
+    "time": 403,
+    "timeDay": 23,
+    "timeWeek": 132,
     "timeMonth": 90,
-    "timeYear": 259,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 387,
-    "timeDay": 14,
-    "timeWeek": 464,
-    "timeMonth": 193,
-    "timeYear": 177,
+    "time": 386,
+    "timeDay": 30,
+    "timeWeek": 461,
+    "timeMonth": 199,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 241,
-    "timeDay": 10,
-    "timeWeek": 147,
-    "timeMonth": 101,
+    "timeDay": 11,
+    "timeWeek": 145,
+    "timeMonth": 104,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2022-06-30": 52,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 527,
+    "time": 525,
     "timeDay": 20,
-    "timeWeek": 74,
-    "timeMonth": 49,
-    "timeYear": 241,
+    "timeWeek": 72,
+    "timeMonth": 50,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 12,
+    "timeDay": 20,
     "timeWeek": 447,
-    "timeMonth": 164,
+    "timeMonth": 169,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-06-30": 52
@@ -133,9 +133,9 @@
     "uptimeYear": "99.99%",
     "time": 400,
     "timeDay": 11,
-    "timeWeek": 110,
-    "timeMonth": 69,
-    "timeYear": 382,
+    "timeWeek": 45,
+    "timeMonth": 70,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2022-06-30": 52
     }
