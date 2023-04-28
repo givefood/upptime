@@ -27,8 +27,8 @@
     "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.36%",
-    "uptimeMonth": "95.48%",
+    "uptimeWeek": "80.18%",
+    "uptimeMonth": "95.44%",
     "uptimeYear": "99.61%",
     "time": 374,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 159,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-04-28": 1191,
+      "2023-04-28": 1209,
       "2023-04-27": 790,
       "2022-06-30": 52
     }
@@ -48,9 +48,9 @@
     "slug": "give-food-api-2-food-banks-dump",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 229,
     "timeDay": 31,
@@ -58,7 +58,7 @@
     "timeMonth": 79,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-04-28": 106,
+      "2023-04-28": 94,
       "2022-06-30": 52
     }
   },
@@ -87,19 +87,19 @@
     "url": "https://www.givefood.org.uk/api/2/locations/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "give-food-api-2-locations-dump",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 389,
-    "timeDay": 23,
+    "time": 387,
+    "timeDay": 24,
     "timeWeek": 27,
-    "timeMonth": 64,
-    "timeYear": 142,
+    "timeMonth": 63,
+    "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-04-28": 29,
+      "2023-04-28": 47,
       "2022-06-30": 52
     }
   },
