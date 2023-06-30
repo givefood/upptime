@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 383,
-    "timeDay": 72,
-    "timeWeek": 107,
-    "timeMonth": 94,
+    "timeDay": 94,
+    "timeWeek": 114,
+    "timeMonth": 95,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2022-06-30": 52
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Give Food API 1 food banks dump",
@@ -31,14 +29,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 293,
-    "timeDay": 47,
-    "timeWeek": 43,
-    "timeMonth": 91,
-    "timeYear": 179,
+    "timeDay": 519,
+    "timeWeek": 114,
+    "timeMonth": 83,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2023-04-28": 1381,
-      "2023-04-27": 790,
-      "2022-06-30": 52
+      "2023-04-27": 790
     }
   },
   {
@@ -52,14 +49,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 145,
-    "timeDay": 26,
-    "timeWeek": 30,
-    "timeMonth": 84,
+    "time": 143,
+    "timeDay": 86,
+    "timeWeek": 40,
+    "timeMonth": 70,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-04-28": 134,
-      "2022-06-30": 52
+      "2023-04-28": 134
     }
   },
   {
@@ -73,14 +69,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 177,
-    "timeDay": 17,
-    "timeWeek": 17,
-    "timeMonth": 45,
-    "timeYear": 147,
-    "dailyMinutesDown": {
-      "2022-06-30": 52
-    }
+    "time": 178,
+    "timeDay": 645,
+    "timeWeek": 107,
+    "timeMonth": 66,
+    "timeYear": 148,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Give Food API 2 locations dump",
@@ -93,14 +87,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 220,
-    "timeDay": 45,
-    "timeWeek": 31,
-    "timeMonth": 57,
+    "time": 217,
+    "timeDay": 80,
+    "timeWeek": 39,
+    "timeMonth": 43,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-04-28": 47,
-      "2022-06-30": 52
+      "2023-04-28": 47
     }
   },
   {
@@ -115,13 +108,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 144,
-    "timeDay": 16,
-    "timeWeek": 165,
-    "timeMonth": 74,
+    "timeDay": 67,
+    "timeWeek": 173,
+    "timeMonth": 68,
     "timeYear": 136,
-    "dailyMinutesDown": {
-      "2022-06-30": 52
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Give Food API 2 Needs",
@@ -135,12 +126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 16,
-    "timeWeek": 104,
-    "timeMonth": 118,
-    "timeYear": 265,
-    "dailyMinutesDown": {
-      "2022-06-30": 52
-    }
+    "timeDay": 426,
+    "timeWeek": 115,
+    "timeMonth": 114,
+    "timeYear": 267,
+    "dailyMinutesDown": {}
   }
 ]
