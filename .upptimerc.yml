@@ -4,19 +4,25 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Give Food Homepage
+  - name: Homepage
     url: https://www.givefood.org.uk/
-  - name: Give Food API 1 food banks dump
+  - name: RSS
+    url: https://www.givefood.org.uk/needs/rss.xml
+  - name: Food Bank Nearby Page
+    url: https://www.givefood.org.uk/needs/at/saltash/nearby/
+  - name: Beans & Pasta Index Dashboard
+    url: https://www.givefood.org.uk/dashboard/bean-pasta-index/
+  - name: API 1 food banks dump
     url: https://www.givefood.org.uk/api/1/foodbanks/
-  - name: Give Food API 2 food banks dump
+  - name: API 2 food banks dump
     url: https://www.givefood.org.uk/api/2/foodbanks/
-  - name: Give Food API 2 individual food bank
+  - name: API 2 individual food bank
     url: https://www.givefood.org.uk/api/2/foodbank/sid-valley/
-  - name: Give Food API 2 locations dump
+  - name: API 2 locations dump
     url: https://www.givefood.org.uk/api/2/locations/
-  - name: Give Food API 2 location search
+  - name: API 2 location search
     url: https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111
-  - name: Give Food API 2 Needs
+  - name: API 2 Needs
     url: https://www.givefood.org.uk/api/2/needs/
 
 status-website:
@@ -24,7 +30,7 @@ status-website:
   cname: uptime.givefood.org.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://www.givefood.org.uk/static/img/logo.png
+  logoUrl: https://www.givefood.org.uk/static/img/logo_full.png
   name: Give Food
   introTitle: ""
   introMessage: ""
