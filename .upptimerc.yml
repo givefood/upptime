@@ -30,7 +30,7 @@ status-website:
   cname: uptime.givefood.org.uk
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://www.givefood.org.uk/static/img/logo_full.png
+  logoUrl: https://www.givefood.org.uk/static/img/logo.png
   name: Give Food
   introTitle: ""
   introMessage: ""
