@@ -76,19 +76,19 @@
     "url": "https://www.givefood.org.uk/api/1/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-1-food-banks-dump",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 1639,
-    "timeWeek": 388,
-    "timeMonth": 1311,
-    "timeYear": 830,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 826,
+    "timeDay": 1087,
+    "timeWeek": 407,
+    "timeMonth": 1286,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-12-22": 1
+      "2023-12-22": 11
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://www.givefood.org.uk/api/2/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-food-banks-dump",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 1349,
-    "timeWeek": 317,
-    "timeMonth": 442,
-    "timeYear": 349,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 351,
+    "timeDay": 926,
+    "timeWeek": 340,
+    "timeMonth": 444,
+    "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-12-22": 0
+      "2023-12-22": 11
     }
   },
   {
