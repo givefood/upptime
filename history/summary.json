@@ -76,19 +76,19 @@
     "url": "https://www.givefood.org.uk/api/1/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-1-food-banks-dump",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 19,
-    "timeWeek": 552,
-    "timeMonth": 394,
-    "timeYear": 754,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 855,
+    "timeDay": 4274,
+    "timeWeek": 1549,
+    "timeMonth": 633,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2024-01-02": 0
+      "2024-01-02": 11
     }
   },
   {
