@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "rss",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 775,
     "timeDay": 17,
     "timeWeek": 1581,
     "timeMonth": 503,
     "timeYear": 775,
-    "dailyMinutesDown": {
-      "2024-01-04": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Food Bank Nearby Page",
