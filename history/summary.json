@@ -76,10 +76,10 @@
     "url": "https://www.givefood.org.uk/api/1/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-1-food-banks-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
@@ -87,16 +87,18 @@
     "timeWeek": 525,
     "timeMonth": 342,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 2
+    }
   },
   {
     "name": "API 2 food banks dump",
     "url": "https://www.givefood.org.uk/api/2/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-food-banks-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 513,
     "timeMonth": 284,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 0
+    }
   },
   {
     "name": "API 2 individual food bank",
