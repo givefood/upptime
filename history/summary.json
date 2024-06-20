@@ -22,18 +22,19 @@
     "url": "https://www.givefood.org.uk/needs/rss.xml",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 465,
-    "timeDay": 13,
-    "timeWeek": 16,
-    "timeMonth": 475,
-    "timeYear": 465,
+    "time": 464,
+    "timeDay": 143,
+    "timeWeek": 48,
+    "timeMonth": 469,
+    "timeYear": 464,
     "dailyMinutesDown": {
+      "2024-06-20": 3,
       "2024-06-09": 21
     }
   },
@@ -78,18 +79,19 @@
     "url": "https://www.givefood.org.uk/api/1/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-1-food-banks-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 507,
-    "timeDay": 24,
-    "timeWeek": 30,
-    "timeMonth": 81,
+    "timeDay": 221,
+    "timeWeek": 78,
+    "timeMonth": 91,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2024-06-20": 3,
       "2024-05-24": 21
     }
   },
@@ -152,10 +154,10 @@
     "url": "https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-location-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
@@ -163,16 +165,18 @@
     "timeWeek": 19,
     "timeMonth": 23,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 2
+    }
   },
   {
     "name": "API 2 Needs",
     "url": "https://www.givefood.org.uk/api/2/needs/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-needs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,6 +185,8 @@
     "timeWeek": 162,
     "timeMonth": 126,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   }
 ]
