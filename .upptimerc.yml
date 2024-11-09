@@ -20,8 +20,10 @@ sites:
     url: https://www.givefood.org.uk/api/2/foodbank/sid-valley/
   - name: API 2 locations dump
     url: https://www.givefood.org.uk/api/2/locations/
-  - name: API 2 location search
+  - name: API 2 location search lat_lng
     url: https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111
+  - name: API 2 location search address
+    url: https://www.givefood.org.uk/api/2/locations/search/?address=SW1P%204RG
   - name: API 2 Needs
     url: https://www.givefood.org.uk/api/2/needs/
 
