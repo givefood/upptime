@@ -4,11 +4,11 @@
     "url": "https://www.givefood.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 396,
     "timeDay": 277,
@@ -16,6 +16,7 @@
     "timeMonth": 294,
     "timeYear": 460,
     "dailyMinutesDown": {
+      "2025-01-15": 6,
       "2024-11-26": 31,
       "2024-10-09": 21,
       "2024-09-21": 48,
@@ -27,11 +28,11 @@
     "url": "https://www.givefood.org.uk/needs/rss.xml",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.12%",
     "time": 307,
     "timeDay": 26,
@@ -39,6 +40,7 @@
     "timeMonth": 143,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-01-15": 5,
       "2024-10-12": 895,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -75,18 +77,20 @@
     "url": "https://www.givefood.org.uk/dashboard/bean-pasta-index/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "beans-and-pasta-index-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 16,
     "timeWeek": 19,
     "timeMonth": 68,
     "timeYear": 52,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 3
+    }
   },
   {
     "name": "API 1 food banks dump",
@@ -103,7 +107,7 @@
     "timeDay": 30,
     "timeWeek": 29,
     "timeMonth": 215,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2024-06-20": 39,
       "2024-05-24": 21
@@ -171,10 +175,10 @@
     "url": "https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-location-search-lat-lng",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
@@ -182,16 +186,18 @@
     "timeWeek": 19,
     "timeMonth": 18,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 2
+    }
   },
   {
     "name": "API 2 location search address",
     "url": "https://www.givefood.org.uk/api/2/locations/search/?address=SW1P%204RG",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-location-search-address",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,7 +206,9 @@
     "timeWeek": 18,
     "timeMonth": 64,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "API 2 Needs",
