@@ -1,7 +1,7 @@
 url: https://www.givefood.org.uk/api/2/needs/
-status: up
-code: 200
-responseTime: 501
-lastUpdated: 2025-01-16T03:40:07.492Z
+status: down
+code: 500
+responseTime: 202
+lastUpdated: 2025-01-16T03:51:49.849Z
 startTime: 2023-10-22T17:15:01.100Z
 generator: Upptime <https://github.com/upptime/upptime>
