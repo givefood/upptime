@@ -156,19 +156,19 @@
     "url": "https://www.givefood.org.uk/api/2/locations/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-locations-dump",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 52,
-    "timeWeek": 61,
-    "timeMonth": 115,
+    "timeDay": 103,
+    "timeWeek": 73,
+    "timeMonth": 116,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 15
     }
   },
   {
