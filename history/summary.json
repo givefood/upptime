@@ -6,9 +6,9 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 512,
     "timeDay": 332,
@@ -16,7 +16,7 @@
     "timeMonth": 246,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-04-24": 1,
+      "2025-04-24": 12,
       "2025-02-28": 66,
       "2025-01-16": 172,
       "2025-01-15": 63,
@@ -33,9 +33,9 @@
     "slug": "rss",
     "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.10%",
     "time": 245,
     "timeDay": 671,
@@ -43,7 +43,7 @@
     "timeMonth": 115,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-04-24": 1,
+      "2025-04-24": 12,
       "2025-04-03": 22,
       "2025-03-04": 16,
       "2025-02-28": 19,
@@ -68,9 +68,9 @@
     "slug": "food-bank-nearby-page",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 37,
     "timeDay": 452,
@@ -78,7 +78,7 @@
     "timeMonth": 49,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-04-24": 1
+      "2025-04-24": 12
     }
   },
   {
@@ -88,9 +88,9 @@
     "slug": "beans-and-pasta-index-dashboard",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 485,
@@ -98,7 +98,7 @@
     "timeMonth": 69,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-04-24": 1
+      "2025-04-24": 12
     }
   },
   {
@@ -108,9 +108,9 @@
     "slug": "api-1-food-banks-dump",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 278,
     "timeDay": 1474,
@@ -118,7 +118,7 @@
     "timeMonth": 185,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-04-24": 1,
+      "2025-04-24": 12,
       "2025-03-04": 16,
       "2025-02-28": 17,
       "2024-06-20": 39,
@@ -130,18 +130,19 @@
     "url": "https://www.givefood.org.uk/api/2/foodbanks/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-food-banks-dump",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 287,
-    "timeDay": 1961,
-    "timeWeek": 307,
-    "timeMonth": 837,
+    "time": 285,
+    "timeDay": 1068,
+    "timeWeek": 290,
+    "timeMonth": 817,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2025-02-28": 16,
       "2024-10-10": 110,
       "2024-10-09": 1
@@ -154,9 +155,9 @@
     "slug": "api-2-individual-food-bank",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 60,
     "timeDay": 467,
@@ -164,7 +165,7 @@
     "timeMonth": 50,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 12
     }
   },
   {
@@ -174,9 +175,9 @@
     "slug": "api-2-locations-dump",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 1634,
@@ -184,7 +185,7 @@
     "timeMonth": 168,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 12
     }
   },
   {
@@ -192,18 +193,20 @@
     "url": "https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-location-search-lat-lng",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 594,
-    "timeWeek": 104,
-    "timeMonth": 66,
-    "timeYear": 80,
-    "dailyMinutesDown": {}
+    "time": 82,
+    "timeDay": 520,
+    "timeWeek": 147,
+    "timeMonth": 78,
+    "timeYear": 82,
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "API 2 location search address",
@@ -212,9 +215,9 @@
     "slug": "api-2-location-search-address",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 702,
@@ -222,7 +225,7 @@
     "timeMonth": 98,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 12
     }
   },
   {
@@ -232,9 +235,9 @@
     "slug": "api-2-needs",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 153,
     "timeDay": 364,
@@ -242,7 +245,7 @@
     "timeMonth": 85,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-04-24": 0,
+      "2025-04-24": 12,
       "2025-02-28": 20,
       "2025-01-16": 122,
       "2025-01-15": 38,
