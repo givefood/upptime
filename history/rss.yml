@@ -1,7 +1,7 @@
 url: https://www.givefood.org.uk/needs/rss.xml
-status: down
-code: 503
-responseTime: 131
-lastUpdated: 2025-07-05T14:20:59.798Z
+status: up
+code: 200
+responseTime: 535
+lastUpdated: 2025-07-05T14:40:26.290Z
 startTime: 2023-10-22T17:14:52.145Z
 generator: Upptime <https://github.com/upptime/upptime>
