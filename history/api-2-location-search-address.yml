@@ -1,7 +1,7 @@
 url: https://www.givefood.org.uk/api/2/locations/search/?address=SW1P%204RG
-status: down
-code: 521
-responseTime: 144
-lastUpdated: 2026-01-23T12:36:23.597Z
+status: up
+code: 200
+responseTime: 501
+lastUpdated: 2026-01-23T14:45:20.893Z
 startTime: 2024-11-09T12:54:33.287Z
 generator: Upptime <https://github.com/upptime/upptime>
