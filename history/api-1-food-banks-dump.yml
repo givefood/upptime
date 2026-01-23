@@ -1,7 +1,7 @@
 url: https://www.givefood.org.uk/api/1/foodbanks/
-status: down
-code: 521
-responseTime: 143
-lastUpdated: 2026-01-23T12:36:15.395Z
+status: up
+code: 200
+responseTime: 624
+lastUpdated: 2026-01-23T14:45:07.661Z
 startTime: 2023-10-22T17:14:57.106Z
 generator: Upptime <https://github.com/upptime/upptime>
