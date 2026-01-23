@@ -1,7 +1,7 @@
 url: https://www.givefood.org.uk/api/2/locations/
-status: down
-code: 521
-responseTime: 146
-lastUpdated: 2026-01-23T12:36:19.839Z
+status: up
+code: 200
+responseTime: 756
+lastUpdated: 2026-01-23T14:45:14.904Z
 startTime: 2023-10-22T17:14:59.495Z
 generator: Upptime <https://github.com/upptime/upptime>
