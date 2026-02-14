@@ -1,7 +1,7 @@
 url: https://www.givefood.org.uk/api/2/locations/search/?lat_lng=51.178889,-1.826111
 status: up
 code: 200
-responseTime: 15
-lastUpdated: 2026-02-13T23:05:50.673Z
+responseTime: 23
+lastUpdated: 2026-02-14T23:02:04.742Z
 startTime: 2024-11-09T12:54:32.956Z
 generator: Upptime <https://github.com/upptime/upptime>
