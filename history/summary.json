@@ -211,20 +211,20 @@
     "url": "https://www.givefood.org.uk/api/2/needs/",
     "icon": "https://icons.duckduckgo.com/ip3/www.givefood.org.uk.ico",
     "slug": "api-2-needs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 88,
-    "timeDay": 168,
-    "timeWeek": 83,
-    "timeMonth": 94,
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 89,
+    "timeDay": 179,
+    "timeWeek": 96,
+    "timeMonth": 97,
     "timeYear": 90,
     "dailyMinutesDown": {
       "2025-11-18": 115,
-      "2026-10-21": 1
+      "2026-10-21": 26
     }
   }
 ]
