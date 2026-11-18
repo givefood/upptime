@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 220,
-    "timeDay": 127,
-    "timeWeek": 100,
-    "timeMonth": 130,
+    "timeDay": 121,
+    "timeWeek": 107,
+    "timeMonth": 127,
     "timeYear": 208,
-    "dailyMinutesDown": {
-      "2025-11-18": 123
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RSS",
@@ -31,12 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 65,
-    "timeDay": 165,
-    "timeWeek": 101,
+    "timeDay": 34,
+    "timeWeek": 98,
     "timeMonth": 83,
-    "timeYear": 60,
+    "timeYear": 61,
     "dailyMinutesDown": {
-      "2025-11-18": 123,
       "2026-01-23": 129
     }
   },
@@ -52,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 36,
-    "timeDay": 110,
-    "timeWeek": 67,
+    "timeDay": 41,
+    "timeWeek": 66,
     "timeMonth": 67,
     "timeYear": 40,
-    "dailyMinutesDown": {
-      "2025-11-18": 123
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beans & Pasta Index Dashboard",
@@ -72,13 +67,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 53,
-    "timeDay": 113,
-    "timeWeek": 81,
-    "timeMonth": 73,
-    "timeYear": 59,
-    "dailyMinutesDown": {
-      "2025-11-18": 123
-    }
+    "timeDay": 88,
+    "timeWeek": 85,
+    "timeMonth": 75,
+    "timeYear": 60,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API 1 food banks dump",
@@ -92,12 +85,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 115,
-    "timeDay": 165,
-    "timeWeek": 124,
-    "timeMonth": 150,
+    "timeDay": 132,
+    "timeWeek": 125,
+    "timeMonth": 143,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-11-18": 123,
       "2026-01-23": 129
     }
   },
@@ -112,13 +104,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 207,
-    "timeDay": 230,
-    "timeWeek": 126,
-    "timeMonth": 194,
-    "timeYear": 232,
+    "time": 208,
+    "timeDay": 54,
+    "timeWeek": 122,
+    "timeMonth": 191,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-11-18": 123,
       "2026-01-23": 129,
       "2026-03-04": 19
     }
@@ -135,13 +126,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 46,
-    "timeDay": 95,
-    "timeWeek": 79,
-    "timeMonth": 87,
+    "timeDay": 33,
+    "timeWeek": 74,
+    "timeMonth": 86,
     "timeYear": 53,
-    "dailyMinutesDown": {
-      "2025-11-18": 115
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API 2 locations dump",
@@ -155,12 +144,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 112,
-    "timeDay": 206,
-    "timeWeek": 148,
-    "timeMonth": 127,
+    "timeDay": 43,
+    "timeWeek": 138,
+    "timeMonth": 125,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-11-18": 115,
       "2026-01-23": 129
     }
   },
@@ -176,12 +164,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 68,
-    "timeDay": 201,
+    "timeDay": 40,
     "timeWeek": 76,
     "timeMonth": 85,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2025-11-18": 115,
       "2026-01-23": 129
     }
   },
@@ -197,12 +184,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 72,
-    "timeDay": 160,
-    "timeWeek": 85,
+    "timeDay": 59,
+    "timeWeek": 84,
     "timeMonth": 85,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2025-11-18": 115,
       "2026-01-23": 129
     }
   },
@@ -217,13 +203,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 91,
-    "timeDay": 157,
+    "time": 90,
+    "timeDay": 44,
     "timeWeek": 113,
     "timeMonth": 113,
-    "timeYear": 92,
+    "timeYear": 91,
     "dailyMinutesDown": {
-      "2025-11-18": 115,
       "2026-10-21": 26
     }
   }
